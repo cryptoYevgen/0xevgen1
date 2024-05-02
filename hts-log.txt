@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 02 May 2024 02:28:02 at https://cherry20825005.heavens.pictures/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%P%h%s%u%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://cherry20825005.heavens.pictures/index.html -O1 "C:\Мои Web Сайты\1234" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:28:10	Error: 	"Forbidden" (403) at link https://2d4bd1e243f43c90c8d937fcda13dbcf.s3.amazonaws.com/819385/favicon.png (from https://cherry20825005.heavens.pictures/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 seconds : 14 links scanned, 12 files written (1185632 bytes overall) [1201226 bytes received at 150153 bytes/sec]
+(1 errors, 0 warnings, 0 messages)
